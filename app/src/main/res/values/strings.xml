@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">learntoolsbar</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="search">Search</string>
+<string name="action_menu"> action menu </string>
+    <string name="empty"></string>
+
+</resources>
